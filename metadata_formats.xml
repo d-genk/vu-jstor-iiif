@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-04T19:20:28Z</responseDate>
+  <request verb="ListMetadataFormats">https://forum.jstor.org/oai</request>
+  <ListMetadataFormats>
+    <metadataFormat>
+      <metadataPrefix>oai_dc</metadataPrefix>
+      <schema>https://www.openarchives.org/OAI/2.0/oai_dc.xsd</schema>
+      <metadataNamespace>https://www.openarchives.org/OAI/2.0/oai_dc/</metadataNamespace>
+    </metadataFormat>
+    <metadataFormat>
+      <metadataPrefix>oai_ssio</metadataPrefix>
+      <schema>https://catalog.sharedshelf.artstor.org/service/schema/SharedShelf_IO.xsd</schema>
+      <metadataNamespace>https://catalog.sharedshelf.artstor.org</metadataNamespace>
+    </metadataFormat>
+  </ListMetadataFormats>
+</OAI-PMH>

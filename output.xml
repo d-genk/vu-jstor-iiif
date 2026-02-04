@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-04T19:13:05Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_ssio" identifier="26758211">https://forum.jstor.org/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>26758211</identifier>
+        <datestamp>2024-11-08T19:34:18Z</datestamp>
+      </header>
+      <metadata>
+        <SharedShelf xmlns:display="http://catalog.sharedshelf.artstor.org/display" xmlns:ssc="http://catalog.sharedshelf.artstor.org/ssc" xmlns:ssd="http://catalog.sharedshelf.artstor.org/ssd" xmlns:ssn="http://catalog.sharedshelf.artstor.org/ssn" xmlns:ssw="http://catalog.sharedshelf.artstor.org/ssw" xmlns:ssw_lkup="http://catalog.sharedshelf.artstor.org/ssw_lkup" xmlns:tgn="http://catalog.sharedshelf.artstor.org/tgn" xmlns:aat="http://catalog.sharedshelf.artstor.org/aat" xmlns:mfcl="http://catalog.sharedshelf.artstor.org/mfcl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://catalog.sharedshelf.artstor.org" xsi:schemaLocation="http://catalog.sharedshelf.artstor.org https://catalog.sharedshelf.artstor.org/service/schema/SharedShelf_IO.xsd">
+          <ssn:Name conceptId="500094391" stateText="COMPLETED" recordType="PERSON" batchId="1" statusText="Complete" createdOn="2014/5/03 5:10:36" modifiedOn="2014/5/03 5:10:36" batchName="ULAN" preferredTerm="Hinterreiter, Hans" preferredGender="Male" uri="https://forum.jstor.org/oai/ssn/500094391">
+            <Roles xmlns="" count="2">
+              <Role id="11309471" name="painter" preferred="false"/>
+              <Role id="11310453" name="artist" preferred="true"/>
+            </Roles>
+            <Nationalities xmlns="" count="1">
+              <Nationality id="11281708" name="Swiss" preferred="true"/>
+            </Nationalities>
+            <Terms xmlns="" count="2">
+              <Term id="1500180247" name="Hinterreiter, Hans" preferred="true">
+                <Contributor id="2500000005" name="BHA" preferred="true"/>
+                <Contributor id="2500000130" name="WL-Courtauld" preferred="true"/>
+                <Language id="11280177" name="undetermined" preferred="false"/>
+                <TermSource id="11242921" name="BHA, Authority file (1973-)" preferred="true"/>
+                <TermSource id="11240386" name="Witt Library, Authority files" preferred="false"/>
+              </Term>
+              <Term id="1500310030" name="Hans Hinterreiter" preferred="false">
+                <Contributor id="2500000013" name="VP" preferred="false"/>
+                <Language id="11280177" name="undetermined" preferred="false"/>
+                <TermSource id="11233823" name="Getty Vocabulary Program rules" preferred="false"/>
+              </Term>
+            </Terms>
+            <Bibliographies xmlns="" count="3">
+              <Bibliography sourceId="11242921" sourceText="BHA, Authority file (1973-)" preferred="false"/>
+              <Bibliography sourceId="11240386" sourceText="Witt Library, Authority files" preferred="false"/>
+              <Bibliography sourceId="11233823" sourceText="Getty Vocabulary Program rules" preferred="false"/>
+            </Bibliographies>
+            <Contributors xmlns="" count="3">
+              <Contributor id="2500000005" name="BHA"/>
+              <Contributor id="2500000130" name="WL-Courtauld"/>
+              <Contributor id="2500000013" name="VP"/>
+            </Contributors>
+            <Biographies xmlns="" count="3">
+              <Biography id="4000236456" name="Swiss painter, born 1902-1989" gender="Male" preferred="true">
+                <birthDate year="1902" epoch="AD"/>
+                <Contributor id="2500000013" name="VP"/>
+                <deathDate year="1989" epoch="AD"/>
+              </Biography>
+              <Biography id="4000149179" name="Swiss painter, b.1902" gender="Male" preferred="false">
+                <Contributor id="2500000005" name="BHA"/>
+              </Biography>
+              <Biography id="4000278294" name="Swiss artist, born 1902" gender="Unknown" preferred="false">
+                <birthDate year="1902" epoch="AD"/>
+                <Contributor id="2500000130" name="WL-Courtauld"/>
+              </Biography>
+            </Biographies>
+          </ssn:Name>
+          <aat:AAT subjectId="300178688" recordType="C" englishScopeNote="Prints made by exclusively using the process of screen printing, whether originated by hand or photographically." preferredTerm="screen prints" uri="https://forum.jstor.org/oai/aat/300178688">
+            <Hierarchy xmlns="">
+              <Parent subjectId="300264092" name="Objects Facet">
+                <Child subjectId="300264552" name="Visual and Verbal Communication">
+                  <Child subjectId="300179869" name="Visual Works (Hierarchy Name)">
+                    <Child subjectId="300191086" name="visual works (Guide Term)">
+                      <Child subjectId="300191091" name="visual works by medium or technique">
+                        <Child subjectId="300041273" name="prints (visual works)">
+                          <Child subjectId="300041337" name="prints by process or technique">
+                            <Child subjectId="300178544" name="prints by process">
+                              <Child subjectId="300178688" name="screen prints"/>
+                            </Child>
+                          </Child>
+                        </Child>
+                      </Child>
+                    </Child>
+                  </Child>
+                </Child>
+              </Parent>
+            </Hierarchy>
+            <Terms xmlns="">
+              <Term id="1000181831" name="silkscreen prints" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000017031" briefCit="Zinkham and Parker, Descriptive Terms for Graphic Materials (1986)" fullCit="Zinkham, Helena and Elizabeth B. Parker. Descriptive Terms for Graphic Materials: Genre and Physical Characteristic Headings. Washington, D.C.: Library of Congress, 1986."/>
+                  <Source id="2000029921" briefCit="Newman, Innovative Printmaking (1977)" fullCit="Newman, Thelma R. Innovative Printmaking: The Making of Two- and Three-Dimensional Prints and Multiples. New York: Crown Publishers, 1977."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000178691" name="silkscreens(visual works)" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000016051" briefCit="Gascoigne, How to Identify Prints (1986)" fullCit="Gascoigne, Bamber. How to Identify Prints: A Complete Guide to Manual and Mechanical Processes from Woodcut to Ink Jet. New York: Thames &amp; Hudson, 1986."/>
+                  <Source id="2000033721" briefCit="Museum Prototype Project, Medium of Objects Frequency Report (1985)" fullCit="Museum Prototype Project. Medium of Objects Frequency Report. Document prepared for internal distribution. Marina del Rey: J. Paul Getty Trust, 1985."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000178689" name="serigraphs" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000033721" briefCit="Museum Prototype Project, Medium of Objects Frequency Report (1985)" fullCit="Museum Prototype Project. Medium of Objects Frequency Report. Document prepared for internal distribution. Marina del Rey: J. Paul Getty Trust, 1985."/>
+                  <Source id="2000030761" briefCit="Oxford Companion to Art (1984)" fullCit="Oxford Companion to Art. Edited by Harold Osborne. Reprint of 1970 edition. New York: Oxford University Press, 1984."/>
+                  <Source id="2000046709" briefCit="Encyclopaedia Britannica (1973)" fullCit="Encyclopaedia Britannica. 24 vols. 14th ed. Chicago, Ill.: Encyclopaedia Britannica, 1973.  "/>
+                  <Source id="2000024811" briefCit="CDMARC Subjects: LCSH (1988-)" fullCit="CDMARC Subjects: Library of Congress Subject Headings. Washington, DC: Library of Congress, Cataloging Distribution Service, 1988-. Quarterly, with each issue cumulative."/>
+                  <Source id="2000017031" briefCit="Zinkham and Parker, Descriptive Terms for Graphic Materials (1986)" fullCit="Zinkham, Helena and Elizabeth B. Parker. Descriptive Terms for Graphic Materials: Genre and Physical Characteristic Headings. Washington, D.C.: Library of Congress, 1986."/>
+                  <Source id="2000029921" briefCit="Newman, Innovative Printmaking (1977)" fullCit="Newman, Thelma R. Innovative Printmaking: The Making of Two- and Three-Dimensional Prints and Multiples. New York: Crown Publishers, 1977."/>
+                  <Source id="2000040791" briefCit="Tyler, Tyler Graphics (1987)" fullCit="Tyler, Kenneth E. Tyler Graphics: Catalogue Raisonné, 1974-1985. Minneapolis, Minnesota: Walker Art Center; New York: Abbeville Press, 1987."/>
+                  <Source id="2000042061" briefCit="Webster's Third New International Dictionary (1961)" fullCit="Webster's Third New International Dictionary of the English Language. Unabridged. Springfield, MA: G. &amp; C. Merriam Co., 1961."/>
+                  <Source id="2000033771" briefCit="Heller, Printmaking Today (1972)" fullCit="Heller, Jules.  Printmaking Today: A Studio Handbook. 2nd ed. New York: Holt, Rinehart &amp; Winston, 1972."/>
+                  <Source id="2000009621" briefCit="Ross et al., Complete Printmaker (1990)" fullCit="Ross, John, Clare Romano, and Tim Ross. The Complete Printmaker. Revised and expanded ed. New York: Free Press, 1990."/>
+                  <Source id="2000016051" briefCit="Gascoigne, How to Identify Prints (1986)" fullCit="Gascoigne, Bamber. How to Identify Prints: A Complete Guide to Manual and Mechanical Processes from Woodcut to Ink Jet. New York: Thames &amp; Hudson, 1986."/>
+                  <Source id="2000026701" briefCit="Mayer, Dictionary of Art Terms and Techniques (1969)" fullCit="Mayer, Ralph. Dictionary of Art Terms and Techniques. New York: Barnes &amp; Noble Books, 1969."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000495287" name="zeefdruk" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000051213" briefCit="AAT-Ned (1994-)" fullCit="AAT Ned: Dutch AAT Translation Project coordinated by Bureau AAT, RKD. The Hague: Netherlands Institute for Art History, 1994-."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000299221" name="screen print" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000046717" briefCit="Getty Vocabulary Program rules" fullCit="Getty Vocabulary Program. Term warranted by AAT Editorial Guidelines."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000178690" name="silk screen prints" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000017031" briefCit="Zinkham and Parker, Descriptive Terms for Graphic Materials (1986)" fullCit="Zinkham, Helena and Elizabeth B. Parker. Descriptive Terms for Graphic Materials: Genre and Physical Characteristic Headings. Washington, D.C.: Library of Congress, 1986."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000181830" name="silk-screen prints" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000030761" briefCit="Oxford Companion to Art (1984)" fullCit="Oxford Companion to Art. Edited by Harold Osborne. Reprint of 1970 edition. New York: Oxford University Press, 1984."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000315469" name="sérigraphie" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000048434" briefCit="CHIN database (1988-)" fullCit="Canadian Heritage Information Network (CHIN) database. 1988-."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000159" briefName="CHIN" fullName="Canadian Heritage Information Network (Gatineau, Quebec, Canada)"/>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000181832" name="prints, screen" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000046717" briefCit="Getty Vocabulary Program rules" fullCit="Getty Vocabulary Program. Term warranted by AAT Editorial Guidelines."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000495286" name="zeefdrukken" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000051213" briefCit="AAT-Ned (1994-)" fullCit="AAT Ned: Dutch AAT Translation Project coordinated by Bureau AAT, RKD. The Hague: Netherlands Institute for Art History, 1994-."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000178688" name="screen prints" preferred="P" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000009621" briefCit="Ross et al., Complete Printmaker (1990)" fullCit="Ross, John, Clare Romano, and Tim Ross. The Complete Printmaker. Revised and expanded ed. New York: Free Press, 1990."/>
+                  <Source id="2000008421" briefCit="Chamberlain, Thames and Hudson Manual of Etching (1978)" fullCit="Chamberlain, Walt. Thames and Hudson Manual of Etching and Engraving. London: Thames &amp; Hudson, 1978."/>
+                  <Source id="2000033771" briefCit="Heller, Printmaking Today (1972)" fullCit="Heller, Jules.  Printmaking Today: A Studio Handbook. 2nd ed. New York: Holt, Rinehart &amp; Winston, 1972."/>
+                  <Source id="2000051089" briefCit="AATA database (2002-) " fullCit="Getty Conservation Institute (GCI). database of AATA Online: Abstracts of International Conservation Literature. Los Angeles: GCI, 2002-.       "/>
+                  <Source id="2000004951" briefCit="Biegeleisen, Screen Printing (1971)" fullCit="Biegeleisen, J. I. Screen Printing: A Contemporary Guide to the Technique of Screen Printing for Artists, Designers, and Craftsmen. New York: Watson-Guptill Publications,  1971."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                  <Contributor id="10000088" briefName="GCI" fullName="Getty Conservation Institute, The Getty Center (Los Angeles, California)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000441840" name="serigrafía" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000049655" briefCit="Lucie-Smith, Diccionario de Términos de Arte (1997)" fullCit="Lucie-Smith, Edward. Diccionario de Términos de Arte. Barcelona: Destino, 1997."/>
+                  <Source id="2000051389" briefCit="Vives, Guía para la identificacion de grabados (2003)" fullCit="Vives, Guía para la identificacion de grabados (2003)"/>
+                  <Source id="2000049665" briefCit="Krejca, Técnicas del Grabado (1990)" fullCit="Krejca, Ales. Técnicas del Grabado. Madrid: Libsa, 1990."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000181825" name="silk screens(visual works)" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000033771" briefCit="Heller, Printmaking Today (1972)" fullCit="Heller, Jules.  Printmaking Today: A Studio Handbook. 2nd ed. New York: Holt, Rinehart &amp; Winston, 1972."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000181829" name="screenprints" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000016051" briefCit="Gascoigne, How to Identify Prints (1986)" fullCit="Gascoigne, Bamber. How to Identify Prints: A Complete Guide to Manual and Mechanical Processes from Woodcut to Ink Jet. New York: Thames &amp; Hudson, 1986."/>
+                  <Source id="2000033721" briefCit="Museum Prototype Project, Medium of Objects Frequency Report (1985)" fullCit="Museum Prototype Project. Medium of Objects Frequency Report. Document prepared for internal distribution. Marina del Rey: J. Paul Getty Trust, 1985."/>
+                  <Source id="2000040791" briefCit="Tyler, Tyler Graphics (1987)" fullCit="Tyler, Kenneth E. Tyler Graphics: Catalogue Raisonné, 1974-1985. Minneapolis, Minnesota: Walker Art Center; New York: Abbeville Press, 1987."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000315468" name="sérigraphies" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000048434" briefCit="CHIN database (1988-)" fullCit="Canadian Heritage Information Network (CHIN) database. 1988-."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000159" briefName="CHIN" fullName="Canadian Heritage Information Network (Gatineau, Quebec, Canada)"/>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000441839" name="serigrafías" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000051214" briefCit="Comité, Plural del término en singular" fullCit="Comité, Plural del término en singular"/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </Term>
+            </Terms>
+            <ScopeNotes xmlns="">
+              <ScopeNote id="91302" notesText="Prenten die alleen met behulp van het zeefdrukprocedé zijn gemaakt, handmatig of fotografisch. Het drukken vindt plaats door inkt of verf door een zeef te duwen waarin een ontwerp is aangebracht door bepaalde gedeelten af te sluiten.">
+                <Language code="70261" description="Dutch"/>
+                <Contributors>
+                  <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+                </Contributors>
+              </ScopeNote>
+              <ScopeNote id="31807" notesText="Prints made by exclusively using the process of screen printing, whether originated by hand or photographically.">
+                <Language code="70051" description="English"/>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </ScopeNote>
+              <ScopeNote id="71277" notesText="Estampas realizadas mediante el proceso serigráfico.">
+                <Language code="70641" description="Spanish"/>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </ScopeNote>
+            </ScopeNotes>
+            <Sources xmlns="">
+              <Source id="2000052386" briefCit="Linden, grafische technieken (1970)" fullCit="Linden, F. van, De grafische technieken, De Bilt, 1970"/>
+              <Source id="2000051089" briefCit="AATA database (2002-) " fullCit="Getty Conservation Institute (GCI). database of AATA Online: Abstracts of International Conservation Literature. Los Angeles: GCI, 2002-.       "/>
+              <Source id="2000024811" briefCit="CDMARC Subjects: LCSH (1988-)" fullCit="CDMARC Subjects: Library of Congress Subject Headings. Washington, DC: Library of Congress, Cataloging Distribution Service, 1988-. Quarterly, with each issue cumulative."/>
+              <Source id="2000048434" briefCit="CHIN database (1988-)" fullCit="Canadian Heritage Information Network (CHIN) database. 1988-."/>
+              <Source id="2000052374" briefCit="Polytechnisch woordenboek En-Ne (1991)" fullCit="Kluwers Groot polytechnisch woordenboek Engels Nederlands, Deventer, 1991"/>
+            </Sources>
+            <Contributors xmlns="">
+              <Contributor id="10000159" briefName="CHIN" fullName="Canadian Heritage Information Network (Gatineau, Quebec, Canada)"/>
+              <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+              <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+              <Contributor id="10000088" briefName="GCI" fullName="Getty Conservation Institute, The Getty Center (Los Angeles, California)"/>
+              <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+            </Contributors>
+          </aat:AAT>
+          <aat:AAT subjectId="300131119" recordType="C" englishScopeNote="Refers to the activity of producing prints as works of art; for the specific processes employed, use such terms as &quot;intaglio printing&quot; or &quot;mezzotint.&quot; For the production of other types of printed material, use &quot;printing.&quot;" preferredTerm="printmaking" uri="https://forum.jstor.org/oai/aat/300131119">
+            <Hierarchy xmlns="">
+              <Parent subjectId="300264090" name="Activities Facet">
+                <Child subjectId="300053001" name="Processes and Techniques">
+                  <Child subjectId="300138084" name="processes and techniques">
+                    <Child subjectId="300053003" name="processes and techniques by specific type">
+                      <Child subjectId="300053159" name="image-making processes and techniques">
+                        <Child subjectId="300131119" name="printmaking"/>
+                      </Child>
+                    </Child>
+                  </Child>
+                </Child>
+              </Parent>
+            </Hierarchy>
+            <Terms xmlns="">
+              <Term id="1000438725" name="artes gáficas" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="N"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000049725" briefCit="Enciclopedia Focal de Fotografía (1975)" fullCit="Enciclopedia Focal de Fotografía. 2 vols. Barcelona: Omega, 1975. "/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000284201" name="print-making" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000031141" briefCit="Oxford English Dictionary (1989)" fullCit="Oxford English Dictionary. 2nd edition. Edited by J. A. Simpson and J. C. Weider. 20 vols. New York: Oxford University Press, 1989. "/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </Term>
+              <Term id="1000438724" name="artes gráficas" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000051034" briefCit="TAA database (2000-)" fullCit="Tesauro de Arte &amp; Arquitectura database. Centro de Documentación de Bienes Patrimoniales, DIBAM. Santiago, Chile: 2000-. "/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000491997" name="drukkunst" preferred="V" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000051213" briefCit="AAT-Ned (1994-)" fullCit="AAT Ned: Dutch AAT Translation Project coordinated by Bureau AAT, RKD. The Hague: Netherlands Institute for Art History, 1994-."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+                </Contributors>
+              </Term>
+              <Term id="1000131119" name="printmaking" preferred="P" historicFlag="C " otherFlags="NA" vernacular="U">
+                <Languages>
+                  <Languages preferred="P"/>
+                </Languages>
+                <Sources>
+                  <Source id="2000001231" briefCit="Mayer, Artist's Handbook of Materials and Techniques (1981)" fullCit="Mayer, Ralph. The Artist's Handbook of Materials and Techniques. 4th ed. New York: Viking Press, 1981."/>
+                  <Source id="2000046682" briefCit="Random House Dictionary of the English Language (1987)" fullCit="Random House Dictionary of the English Language, 2nd ed. New York: Random House, 1987."/>
+                  <Source id="2000051089" briefCit="AATA database (2002-) " fullCit="Getty Conservation Institute (GCI). database of AATA Online: Abstracts of International Conservation Literature. Los Angeles: GCI, 2002-.       "/>
+                  <Source id="2000024811" briefCit="CDMARC Subjects: LCSH (1988-)" fullCit="CDMARC Subjects: Library of Congress Subject Headings. Washington, DC: Library of Congress, Cataloging Distribution Service, 1988-. Quarterly, with each issue cumulative."/>
+                  <Source id="2000042061" briefCit="Webster's Third New International Dictionary (1961)" fullCit="Webster's Third New International Dictionary of the English Language. Unabridged. Springfield, MA: G. &amp; C. Merriam Co., 1961."/>
+                  <Source id="2000042591" briefCit="Webster's 9th New Collegiate Dictionary (1985)" fullCit="Webster's Ninth New Collegiate Dictionary. Springfield, Mass.: G. &amp; C. Merriam Co., 1985."/>
+                </Sources>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                  <Contributor id="10000088" briefName="GCI" fullName="Getty Conservation Institute, The Getty Center (Los Angeles, California)"/>
+                </Contributors>
+              </Term>
+            </Terms>
+            <ScopeNotes xmlns="">
+              <ScopeNote id="93138" notesText="Wordt gebruikt voor de handeling van het maken van afdrukken als kunst; gebruik termen als 'diepdruk' of 'mezzotint' voor de specifieke procédés die hiermee te maken hebben . Gebruik 'drukken' voor het produceren van andere soorten gedrukt materiaal.">
+                <Language code="70261" description="Dutch"/>
+                <Contributors>
+                  <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+                </Contributors>
+              </ScopeNote>
+              <ScopeNote id="68787" notesText="Úsese para la actividad de realizar impresiones como obras de arte. Para los procesos específicos empleados, utilizar términos como &quot;impresión al intaglio” o &quot;medio tono”. Para la producción de otros tipos de material impreso, usar &quot;impresión”.">
+                <Language code="70641" description="Spanish"/>
+                <Contributors>
+                  <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+                </Contributors>
+              </ScopeNote>
+              <ScopeNote id="46868" notesText="Refers to the activity of producing prints as works of art; for the specific processes employed, use such terms as &quot;intaglio printing&quot; or &quot;mezzotint.&quot; For the production of other types of printed material, use &quot;printing.&quot;">
+                <Language code="70051" description="English"/>
+                <Contributors>
+                  <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+                </Contributors>
+              </ScopeNote>
+            </ScopeNotes>
+            <Sources xmlns="">
+              <Source id="2000052373" briefCit="Van Dale groot woordenboek (1994)" fullCit="Van Dale groot woordenboek der Nederlandse taal, Utrecht ; Antwerpen, 1994"/>
+              <Source id="2000024811" briefCit="CDMARC Subjects: LCSH (1988-)" fullCit="CDMARC Subjects: Library of Congress Subject Headings. Washington, DC: Library of Congress, Cataloging Distribution Service, 1988-. Quarterly, with each issue cumulative."/>
+              <Source id="2000035251" briefCit="RILA, Subject Headings (1975-1990)" fullCit="J. Paul Getty Trust. International Repertory of the Literature of Art Subject Headings. Document prepared for internal distribution. Williamstown: J. Paul Getty Trust, 1975-1990."/>
+              <Source id="2000051089" briefCit="AATA database (2002-) " fullCit="Getty Conservation Institute (GCI). database of AATA Online: Abstracts of International Conservation Literature. Los Angeles: GCI, 2002-.       "/>
+            </Sources>
+            <Contributors xmlns="">
+              <Contributor id="10000131" briefName="CDBP-DIBAM" fullName="Centro de Documentación de Bienes Patrimoniales (Dirección de Bibliotecas, Archivos y Museos; Santiago, Chile)"/>
+              <Contributor id="10000088" briefName="GCI" fullName="Getty Conservation Institute, The Getty Center (Los Angeles, California)"/>
+              <Contributor id="10000205" briefName="Bureau AAT" fullName="Bureau AAT, RKD (Netherlands Institute for Art History; The Hague, The Netherlands)"/>
+              <Contributor id="10000000" briefName="VP" fullName="Getty Vocabulary Program"/>
+            </Contributors>
+          </aat:AAT>
+          <tgn:TGN subjectId="7011731" recordType="A" placeType="nation" englishName="Switzerland" preferredName="Schweiz" uri="https://forum.jstor.org/oai/tgn/7011731">
+            <tgn:latitude xmlns="" decimal="47.0" degree="47" minute="0" second="0" direction="N"/>
+            <tgn:longitude xmlns="" decimal="8.0" degree="8" minute="0" second="0" direction="E"/>
+            <tgn:Hierarchy xmlns="">
+              <tgn:Parent subjectId="7029392" name="World" type="facet">
+                <tgn:Child subjectId="1000003" name="Europe" type="continent">
+                  <tgn:Child subjectId="7011731" name="Switzerland" type="nation"/>
+                </tgn:Child>
+              </tgn:Parent>
+            </tgn:Hierarchy>
+            <Terms>
+              <Term id="312664" name="Confédération Suisse" preferred="V"/>
+              <Term id="312665" name="Confédération Helvétique" preferred="V"/>
+              <Term id="312667" name="Confederazione Svizzera" preferred="V"/>
+              <Term id="312668" name="Swiss Confederation" preferred="V"/>
+              <Term id="312669" name="Helvetic Confederation" preferred="V"/>
+              <Term id="312670" name="Helvetic Republic" preferred="V"/>
+              <Term id="312671" name="Rhaetia" preferred="V"/>
+              <Term id="312672" name="Confédération suisse" preferred="V"/>
+              <Term id="312674" name="CHE" preferred="V"/>
+              <Term id="312675" name="Confederazione Elvetica" preferred="V"/>
+              <Term id="312677" name="Svizzra" preferred="V"/>
+              <Term id="312678" name="Confederaziun Helvetica" preferred="V"/>
+              <Term id="312679" name="Suíça" preferred="V"/>
+              <Term id="320310" name="La Suisse" preferred="V"/>
+              <Term id="1156964" name="CH" preferred="V"/>
+              <Term id="1158314" name="ISO756" preferred="V"/>
+              <Term id="1158315" name="SZ00" preferred="V"/>
+              <Term id="135" name="Switzerland" preferred="V"/>
+              <Term id="136" name="Schweiz" preferred="P"/>
+              <Term id="137" name="Suisse" preferred="V"/>
+              <Term id="138" name="Svizzera" preferred="V"/>
+              <Term id="139331" name="Suiza" preferred="V"/>
+              <Term id="139547" name="Zwitserland" preferred="V"/>
+              <Term id="139554" name="Helvetia" preferred="V"/>
+              <Term id="312663" name="Schweizerishe Eidgenossenschaft" preferred="V"/>
+              <Term id="1159490" name="Swiss" preferred="V"/>
+              <Term id="1001214793" name="Svizra" preferred="V"/>
+              <Term id="1001214794" name="Confederaziun Svizra" preferred="V"/>
+            </Terms>
+            <tgn:PlaceTypes xmlns="">
+              <tgn:Place id="81002" name="primary political unit" preferred="N"/>
+              <tgn:Place id="81011" name="independent sovereign nation" preferred="N"/>
+              <tgn:Place id="82171" name="republic" preferred="N"/>
+              <tgn:Place id="81010" name="nation" description="Swiss Confederation of area smaller than modern nation was created in 1291; 22 cantons in confederation since 1815, adopted federal constitution 1848" preferred="P"/>
+            </tgn:PlaceTypes>
+            <tgn:Note>Area settled in pre-Christian period; had Roman encampments 1st cen.; Germanic tribes invaded 3rd-6th cen.; ruled by Franks 9th cen., Holy Roman Empire from 11th cen.; first confederation of cantons was established 13th cen., others joined 14th-19th cen.; official languages are German, French and Italian, though Romansch (Rhaeto-Roman) is also a national language.</tgn:Note>
+          </tgn:TGN>
+          <display:DR id="26758211" representationId="media:e6c3d84b-9121-4bb5-8714-27aaca4a28b2" lastUpdateDate="2020-04-16T21:34:25+00:00" sequence="0" primary="false" projectId="33502" institutionId="10217" createdBy="qavanderbilt001@artstor.org" updatedBy="user@forum.jstor.org" createdDate="2019-10-28T16:04:24+00:00">
+            <DisplayRecord xmlns="">
+              <field_string id="fd_637073_s" description="Titles, identifying phrases, or names given to a work of art, architecture, or material culture." label="Title" value="Opus 61"/>
+              <field_string id="fd_637076_s" description="Concise description of the date or range of dates associated with the creation, design, production, presentation, performance, construction, or alteration of the work or its components, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Date" value="1972 CE"/>
+              <field_string id="fd_637081_s" description="Information about the dimensions, size, or scale of the work, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Measurements" value="15.75 x 15.75 in."/>
+              <field_string id="fd_637092_s" description="Text that describes the content and context of the work, including comments and an interpretation that may supplement, qualify, or explain the physical characteristics, subject, circumstances of creation or discovery, or other information about the work." label="Description" value=""/>
+              <field_string id="fd_637104_s" description="Seal or inscription located on object." label="Seals &amp; Inscriptions" value=""/>
+              <field_string id="fd_637106_s" description="Publications that this artwork or object have appeared in." label="Publications" value=""/>
+              <field_string id="fd_637107_s" description="Exhibitions that this artwork or object have appeared in." label="Exhibitions" value="Hans Hinterreiter: A Theory of Form and Color,&quot; July 9 - September 12, 2013."/>
+              <field_string id="fd_637109_s" description="Date acquired by the Fine Arts Gallery." label="Date Acquired" value="1998"/>
+              <field_string id="fd_637110_s" description="Describes who gifted the object to the Fine Arts Gallery." label="Gift of" value="Carl van der Voort"/>
+              <field_string id="fd_637112_s" description="Information that describes whether this object is a gift, bequest, or purchase." label="Credit Line" value="Collection of Vanderbilt University Fine Arts Gallery"/>
+              <field_string id="fd_637113_s" description="Chronology of ownership or origin." label="Provenance" value=""/>
+              <field_string id="fd_637114_s" description="Denotes a specific collection within the general permanent collection of the Fine Arts Gallery." label="Collection" value="Carl van der Voort Collection"/>
+              <field_string id="fd_637115_s" description="Last change made to the record." label="Last Change" value="Mon Oct 31 00:00:00 EDT 2016"/>
+              <field_string id="fd_637116_s" description="Any important notes regarding this artwork or object." label="Notes" value="#127&#10;Received from Carl van der Voort, April, 1995, (New Haven, CT shipment) &#10;Died September 15, 1989&#10;ed 50/50 &#10;Published by Taller Ibograf, Ibiza, Spain (CVDV's graphic workshop)"/>
+              <field_string id="fd_637085_an" description="Any unique identifiers assigned to a work by the current or last known repository." label="Accession Number" value="1999.044"/>
+              <field_lookup id="fd_637071_lookup" description="Name, brief biographical information, and roles (if necessary) of the named creator or creators in the design and production of the work, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Creator">
+                <display>Hinterreiter, Hans (Swiss painter, born 1902-1989)</display>
+                <linkedField id="500094391" revision="-1" source_id="500094391" preferredTerm="Hinterreiter, Hans" conceptLevel="Community" institutionName="ULAN" uri="https://forum.jstor.org/oai/SSN/500094391">
+                  <allTerms>Hinterreiter, Hans|Hans Hinterreiter</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_637072_lookup" description="Name of the culture, people, or nationality from which the work originated." label="Country/Culture">
+                <display>Switzerland</display>
+                <linkedField id="7011731" revision="-1" source_id="7011731" preferredTerm="Schweiz" conceptLevel="1" institutionName="TGN" uri="https://forum.jstor.org/oai/TGN/7011731">
+                  <allTerms>Confédération Suisse|Confédération Helvétique|Confederazione Svizzera|Swiss Confederation|Helvetic Confederation|Helvetic Republic|Rhaetia|Confédération suisse|CHE|Confederazione Elvetica|Svizzra|Confederaziun Helvetica|Suíça|La Suisse|CH|ISO756|SZ00|Switzerland|Schweiz (nation)|Schweiz|Suisse|Svizzera|Suiza|Zwitserland|Helvetia|Schweizerishe Eidgenossenschaft|Swiss|Svizra|Confederaziun Svizra</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_637079_lookup" description="Term that identifies the named, defined style, historical or artistic period, movement, group, or school whose characteristics are represented in the work being catalogued." label="Style/Period">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_637080_lookup" description="Indication of the substances or materials used in the creation of a work, as well as any implements, production or manufacturing techniques, processes, or methods incorporated in its fabrication, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Medium">
+                <display>Screen print</display>
+                <linkedField id="300178688" revision="-1" source_id="300178688" preferredTerm="screen prints" conceptLevel="1" institutionName="AAT" uri="https://forum.jstor.org/oai/AAT/300178688">
+                  <allTerms>screen prints|silkscreen prints|silkscreens|serigraphs|zeefdruk|screen print|silk screen prints|silk-screen prints|serigraphie|prints, screen|zeefdrukken|serigrafia|silk screens|screenprints|serigraphies|serigrafias</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_637103_lookup" description="None" label="Classification">
+                <display>Graphic Arts-Printmaking</display>
+                <linkedField id="300131119" revision="-1" source_id="300131119" preferredTerm="printmaking" conceptLevel="1" institutionName="AAT" uri="https://forum.jstor.org/oai/AAT/300131119">
+                  <allTerms>printmaking|artes gaficas|print-making|artes graficas|drukkunst</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_637082_mfcl_lookup" description="Term used to categorize a work by grouping it together with other works on the basis of similar characteristics, including materials, form, shape, function, etc. A list of the 16 terms accepted by Artstor may be provided." label="Artstor Classification">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_637091_mfcl_lookup" description="A type of “nationality” field, though not in adjectival form; country refers to the modern name of the country from which the artist came. A list of those currently in use by Artstor may be provided." label="Artstor Country">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_637099_mfcl_lookup" description="The copyright status of the digital object. Recommended best practice is to use a controlled statement from RightsStatements.org. For local or unique rights, catalogers may add new terms to the list. For information on how to use the provided rights statements, go to https://rightsstatements.org/page/1.0/?language=en." label="Rights">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_637100_mfcl_lookup" description="The terms under which the digital object may be used by others. Recommended best practice is to use a controlled statement from CreativeCommons.org. For local or unique licenses, catalogers may add new terms to the list. For information on how to use the provided licenses, go to https://creativecommons.org/licenses/." label="License">
+                <display></display>
+              </field_lookup>
+            </DisplayRecord>
+            <AssetGroups xmlns="">
+              <Group id="263233"/>
+            </AssetGroups>
+            <Publications xmlns="">
+              <Publication status_lkup="Suppressed" publishing_target_id="53145" updatedBy="user@forum.jstor.org" updatedOn="2020-10-27T16:09:23+00:00"/>
+              <Publication status_lkup="Published" publishing_target_id="79857" updatedBy="dale.poulter@vanderbilt.edu" updatedOn="2020-04-17T11:54:01+00:00"/>
+              <Publication status_lkup="Suppressed" publishing_target_id="105466" updatedBy="zach.h.johnson@vanderbilt.edu" updatedOn="2024-11-08T19:34:18+00:00"/>
+              <Publication status_lkup="Deleted" publishing_target_id="107908" updatedBy="user@forum.jstor.org" updatedOn="2020-11-02T17:25:32+00:00"/>
+            </Publications>
+            <Assets xmlns="" filename="1999.044.tif">
+              <Asset id="26758211" size="Thumbnail" uri="https://forum.jstor.org/oai/thumbnail?id=26758211" restriction="f"/>
+              <Asset id="26758211" size="FullSize" uri="https://forum.jstor.org/assets/26758211/representation/size/9" restriction="f"/>
+              <Asset id="26758211" size="Medias" uri="https://forum.jstor.org/oai/medias/26758211" restriction="f"/>
+            </Assets>
+            <Targets xmlns="">
+              <Target name="OAI" status_lkup="Published" url="#" description="OAI" publishDate="2020-04-17T11:54:01+00:00"/>
+            </Targets>
+          </display:DR>
+        </SharedShelf>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

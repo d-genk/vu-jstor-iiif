@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-04T19:23:58Z</responseDate>
+  <request verb="GetRecord" metadataPrefix="oai_ssio" identifier="28475255">https://forum.jstor.org/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>28475255</identifier>
+        <datestamp>2023-03-13T15:12:49Z</datestamp>
+      </header>
+      <metadata>
+        <SharedShelf xmlns:display="http://catalog.sharedshelf.artstor.org/display" xmlns:ssc="http://catalog.sharedshelf.artstor.org/ssc" xmlns:ssd="http://catalog.sharedshelf.artstor.org/ssd" xmlns:ssn="http://catalog.sharedshelf.artstor.org/ssn" xmlns:ssw="http://catalog.sharedshelf.artstor.org/ssw" xmlns:ssw_lkup="http://catalog.sharedshelf.artstor.org/ssw_lkup" xmlns:tgn="http://catalog.sharedshelf.artstor.org/tgn" xmlns:aat="http://catalog.sharedshelf.artstor.org/aat" xmlns:mfcl="http://catalog.sharedshelf.artstor.org/mfcl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://catalog.sharedshelf.artstor.org" xsi:schemaLocation="http://catalog.sharedshelf.artstor.org https://catalog.sharedshelf.artstor.org/service/schema/SharedShelf_IO.xsd">
+          <display:DR id="28475255" representationId="media:dd26d7ec-2672-4f1c-b0fa-fa00171519b2" lastUpdateDate="2023-02-27T15:51:09+00:00" sequence="0" primary="false" projectId="56539" institutionId="10217" createdBy="qavanderbilt001@jstor.org" updatedBy="sarah.calise@vanderbilt.edu" createdDate="2020-07-16T17:26:07+00:00">
+            <DisplayRecord xmlns="">
+              <field_string id="fd_1057650_s" description="The name given to the resource. &#10;" label="Title" value="Abbey, Daniel - An inaugural dissertation on bilious remittent gastric remittent fever"/>
+              <field_string id="fd_1057652_s" description="A point or period of time associated with an event in the lifecycle of the resource. Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF].&#10;" label="Date" value="1855"/>
+              <field_string id="fd_1057654_s" description="An account of the content of the resource. Description may include but is not limited to: an abstract, table of contents, reference to a graphical representation of content or a free-text account of the content.&#10;" label="Description" value="Handwritten inaugural dissertation on bilious remittent gastric remittent fever by Daniel Abbey, of Walker County, Georgia. Inaugural dissertation; no. 75."/>
+              <field_string id="fd_1057664_s" description="The file format, physical medium, or dimensions of the resource.Examples of dimensions include size and duration. Recommended best practice is to use a controlled vocabulary such as the list of Internet Media Types [MIME]  at http://www.iana.org/assignments/media-types/&#10;" label="Format" value="application/pdf"/>
+              <field_string id="fd_1057665_s" description="The size or duration of the resource." label="Extent" value="6 MB"/>
+              <field_string id="fd_1057668_s" description="An unambiguous reference to the resource within a given context.Recommended best practice is to identify the resource by means of a string conforming to a formal identification system.&#10;" label="Identifier" value="http://hdl.handle.net/1803/8162"/>
+              <field_lookup id="fd_1057649_lookup" description="An entity primarily responsible for making the content of the resource. Examples of a Creator include a person, an organization, or a service.&#10;" label="Creator">
+                <display>Abbey, Daniel</display>
+              </field_lookup>
+              <field_lookup id="fd_1057655_lookup" description="The topic of the content of the resource. Typically, the subject will be represented using keywords, key phrases, or classification codes. Recommended best practice is to use a controlled vocabulary." label="Subject">
+                <display>Medical Education, Tennessee History</display>
+              </field_lookup>
+              <field_lookup id="fd_1057658_mfcl_lookup" description="The copyright status of the digital object. Recommended best practice is to use a controlled statement from RightsStatements.org. For local or unique rights, catalogers may add new terms to the list. For information on how to use the provided rights statements, go to https://rightsstatements.org/page/1.0/?language=en." label="Rights">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_1057670_mfcl_lookup" description="Term used to categorize a work by grouping it together with other works on the basis of similar characteristics, including materials, form, shape, function, etc. A list of the 16 terms accepted by ARTstor may be provided." label="Artstor Classification">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_1057671_mfcl_lookup" description="A type of “nationality” field, though not in adjectival form; country refers to the modern name of the country from which the artist came. A list of those currently in use by ARTstor may be provided." label="Artstor Country">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_1057674_mfcl_lookup" description="The terms under which the digital object may be used by others. Recommended best practice is to use a controlled statement from CreativeCommons.org. For local or unique licenses, catalogers may add new terms to the list. For information on how to use the provided licenses, go to https://creativecommons.org/licenses/." label="License">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_1064038_mfcl_lookup" description="None" label="JSTOR Resource Type">
+                <display>Dissertations</display>
+                <linkedField id="26172400" revision="-1" source_id="26172400" preferredTerm="Dissertations" institutionName="Shared Shelf">
+                  <allTerms>Dissertations</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_1088336_mfcl_lookup" description="None" label="Compilation">
+                <display>University of Nashville Medical Student Dissertations (1851-1859)</display>
+                <linkedField id="28591589" revision="-1" source_id="28591589" preferredTerm="University of Nashville Medical Student Dissertations (1851-1859)" institutionName="Vanderbilt University">
+                  <allTerms>University of Nashville Medical Student Dissertations (1851-1859)</allTerms>
+                </linkedField>
+              </field_lookup>
+              <field_lookup id="fd_1088478_mfcl_lookup" description="None" label="Container">
+                <display></display>
+              </field_lookup>
+            </DisplayRecord>
+            <Publications xmlns="">
+              <Publication status_lkup="Published" publishing_target_id="101499" updatedBy="sarah.calise@vanderbilt.edu" updatedOn="2023-03-13T15:12:49+00:00"/>
+              <Publication status_lkup="Published" publishing_target_id="144432" updatedBy="qavanderbilt001@jstor.org" updatedOn="2021-09-09T15:29:57+00:00"/>
+            </Publications>
+            <Assets xmlns="" filename="Abbey_D.pdf">
+              <Asset id="28475255" size="Thumbnail" uri="https://forum.jstor.org/oai/thumbnail?id=28475255" restriction="f"/>
+              <Asset id="28475255" size="FullSize" uri="https://forum.jstor.org/assets/28475255/representation/size/9" restriction="f"/>
+              <Asset id="28475255" size="Medias" uri="https://forum.jstor.org/oai/medias/28475255" restriction="f"/>
+            </Assets>
+            <Targets xmlns="">
+              <Target name="History of Medicine Collections" status_lkup="Published" url="https://www.jstor.org/site/" description="JSTOR" publishDate="2023-03-13T15:12:49+00:00"/>
+              <Target name="OAI" status_lkup="Published" url="#" description="OAI" publishDate="2021-09-09T15:29:57+00:00"/>
+            </Targets>
+          </display:DR>
+        </SharedShelf>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

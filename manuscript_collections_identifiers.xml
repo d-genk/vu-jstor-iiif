@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-04T19:33:09Z</responseDate>
+  <request verb="ListIdentifiers" metadataPrefix="oai_ssio" set="57966">https://forum.jstor.org/oai</request>
+  <ListIdentifiers>
+    <header>
+      <identifier>28592290</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592322</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592323</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592324</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592325</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592326</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592327</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592328</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592329</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <header>
+      <identifier>28592330</identifier>
+      <datestamp>2024-11-12T19:39:42Z</datestamp>
+    </header>
+    <resumptionToken>metadataPrefix%3Doai_ssio%26set%3D57966%26cursor%3D10%26batch_size%3D11</resumptionToken>
+  </ListIdentifiers>
+</OAI-PMH>

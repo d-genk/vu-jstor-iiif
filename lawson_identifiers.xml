@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-04T19:19:00Z</responseDate>
+  <request verb="ListIdentifiers" metadataPrefix="oai_ssio" set="111511">https://forum.jstor.org/oai</request>
+  <ListIdentifiers>
+    <header status="deleted">
+      <identifier>33115889</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33115891</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33115895</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33115897</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33115898</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33115902</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33116346</identifier>
+      <datestamp>2023-06-28T20:33:44Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33126684</identifier>
+      <datestamp>2023-06-28T20:33:54Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33127200</identifier>
+      <datestamp>2023-06-28T20:33:54Z</datestamp>
+    </header>
+    <header status="deleted">
+      <identifier>33127203</identifier>
+      <datestamp>2025-04-22T15:55:23Z</datestamp>
+    </header>
+    <resumptionToken>metadataPrefix%3Doai_ssio%26set%3D111511%26cursor%3D10%26batch_size%3D11</resumptionToken>
+  </ListIdentifiers>
+</OAI-PMH>
