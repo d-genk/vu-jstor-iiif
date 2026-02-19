@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-02-19T20:06:21Z</responseDate>
+  <request verb="ListSets">https://forum.jstor.org/oai</request>
+  <ListSets>
+    <set>
+      <setSpec>111511</setSpec>
+      <setName>Rev. James Lawson Papers</setName>
+    </set>
+    <set>
+      <setSpec>111741</setSpec>
+      <setName>Manuel Zapata Olivella Papers</setName>
+    </set>
+    <set>
+      <setSpec>274644</setSpec>
+      <setName>Contini-Volterra Photographic Archive</setName>
+    </set>
+    <set>
+      <setSpec>250224</setSpec>
+      <setName>John Seigenthaler Papers</setName>
+    </set>
+    <set>
+      <setSpec>288538</setSpec>
+      <setName>Tomás C. de Mosquera Papers</setName>
+    </set>
+    <set>
+      <setSpec>33502</setSpec>
+      <setName>Vanderbilt University Museum of Art</setName>
+    </set>
+    <set>
+      <setSpec>47837</setSpec>
+      <setName>Traditional Chinese Architecture</setName>
+    </set>
+    <set>
+      <setSpec>56770</setSpec>
+      <setName>American South</setName>
+    </set>
+    <set>
+      <setSpec>57966</setSpec>
+      <setName>Manuscript Collections</setName>
+    </set>
+    <set>
+      <setSpec>56539</setSpec>
+      <setName>History of Medicine Collections</setName>
+    </set>
+    <resumptionToken>cursor%3D10%26batch_size%3D11</resumptionToken>
+  </ListSets>
+</OAI-PMH>

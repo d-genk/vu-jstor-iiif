@@ -1,0 +1,19 @@
+curl -L https://stewardship.jstor.org/oai/
+
+curl -L "https://stewardship.jstor.org/oai/?verb=GetRecord&metadataPrefix=oai_ssio&identifier=26758211"
+
+curl -L https://stewardship.jstor.org/oai/?verb=ListSets
+
+curl -L https://stewardship.jstor.org/oai/?verb=ListSets&resumptionToken=cursor%3D10%26batch_size%3D11
+
+curl -L https://stewardship.jstor.org/oai/?verb=ListSets -o curl_write.xml
+
+curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=56539"
+
+curl -L "https://stewardship.jstor.org/oai-next/?verb=ListIdentifiers&metadataPrefix=oai_ssio&set=288538"
+
+curl -L "https://stewardship.jstor.org/oai-next/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=288538"
+
+curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=288538"
+
+curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_ssio&set=288538"
