@@ -1,0 +1,53 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-03-18T15:01:09Z</responseDate>
+  <request verb="GetRecord" identifier="41291858" metadataPrefix="oai_ssio">https://forum.jstor.org/oai-next</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>41291858</identifier>
+        <datestamp>2026-01-20T19:55:13Z</datestamp>
+        <setSpec>288538</setSpec>
+      </header>
+      <metadata>
+        <SharedShelf xmlns:display="http://catalog.sharedshelf.artstor.org/display" xmlns:ssc="http://catalog.sharedshelf.artstor.org/ssc" xmlns:ssd="http://catalog.sharedshelf.artstor.org/ssd" xmlns:ssn="http://catalog.sharedshelf.artstor.org/ssn" xmlns:container="http://catalog.sharedshelf.artstor.org/container" xmlns:assets="http://catalog.sharedshelf.artstor.org/assets" xmlns:linkedrecords="http://catalog.sharedshelf.artstor.org/linkedrecords" xmlns:tgn="http://catalog.sharedshelf.artstor.org/tgn" xmlns:aat="http://catalog.sharedshelf.artstor.org/aat" xmlns:mfcl="http://catalog.sharedshelf.artstor.org/mfcl" xmlns="http://catalog.sharedshelf.artstor.org" xsi:schemaLocation="http://catalog.sharedshelf.artstor.org https://forum.jstor.org/oai-next/schema/SharedShelf_IO.xsd">
+          <display:DR id="41291858" representationId="media:8bc2c20e-e0ac-4f3d-8549-188e21466a5e" lastUpdateDate="2026-01-20T19:55:13+00:00" sequence="0" primary="false" projectId="288538" institutionId="10217" createdBy="philip.nagy@vanderbilt.edu" updatedBy="zach.h.johnson@vanderbilt.edu" createdDate="2025-11-13T15:16:25+00:00">
+            <DisplayRecord xmlns="">
+              <field_string id="fd_2923433_s" description="The name given to the resource. &#10;" label="Title" value="Herrera Guerrero, Joaqu&#237;n"/>
+              <field_string id="fd_2923435_s" description="A point or period of time associated with an event in the lifecycle of the resource. Date may be used to express temporal information at any level of granularity. Recommended best practice is to use an encoding scheme, such as the W3CDTF profile of ISO 8601 [W3CDTF].&#10;" label="Date" value="1850 June 8"/>
+              <field_string id="fd_2923444_s" description="Copyright has not been transferred to Vanderbilt University. Permission beyond fair use must be obtained from the copyright holder(s). " label="Rights" value="Public Domain"/>
+              <field_string id="fd_2923456_s" description="An unambiguous reference to the resource within a given context.Recommended best practice is to identify the resource by means of a string conforming to a formal identification system.&#10;" label="Identifier" value="spc-mss0838-s01-ss01-i0073"/>
+              <field_string id="fd_2923458_an" description="The unique identifier in ArchivesSpace of the individual archival object this item refers to." label="ArchivesSpace ID" value="639a03e2facc8560424f325d2b531764"/>
+              <field_lookup id="fd_2923440_lookup" description="Spatial characteristics of the resource. Recommended best practice is to use a controlled vocabulary such as the Thesaurus of Geographic Names [TGN] at http://www.getty.edu/research/tools/vocabulary/tgn/index.html Where appropriate, named places or time periods can be used in preference to numeric identifiers such as sets of coordinates or date ranges." label="Spatial Coverage">
+                <display>Colombia</display>
+              </field_lookup>
+              <field_lookup id="fd_2923442_lookup" description="None" label="Resource Type">
+                <display>Correspondence</display>
+              </field_lookup>
+              <field_lookup id="fd_2923455_mfcl_lookup" description="None" label="JSTOR Compilation">
+                <display>Tom&#225;s C. de Mosquera Papers</display>
+                <linkedField id="41297042" listName="JSTOR Compilation" source_id="41297042" preferredTerm="Tom&#225;s C. de Mosquera Papers" institutionName="Vanderbilt University">
+                  <allTerms>Tom&#225;s C. de Mosquera Papers</allTerms>
+                </linkedField>
+              </field_lookup>
+              <Container id="41297061" uri="https://forum.jstor.org/oai-next/container/41297061">Correspondence (Mosquera)</Container>
+            </DisplayRecord>
+            <Publications xmlns="">
+              <Publication status_lkup="Published" publishing_target_id="347760" updatedBy="zach.h.johnson@vanderbilt.edu" updatedOn="2026-01-20T19:57:13+00:00"/>
+              <Publication status_lkup="Published" publishing_target_id="370396" updatedBy="zach.h.johnson@vanderbilt.edu" updatedOn="2026-03-10T14:36:33+00:00"/>
+            </Publications>
+            <Assets xmlns="" filename="spc-mss0838-s01-ss01-i0073_0001.jpg">
+              <Asset id="41291858" size="IIIF" uri="https://www.jstor.org/iiif/2025/11/13/15/8bc2c20e-e0ac-4f3d-8549-188e21466a5e_deflate.tif/info.json" restriction="f"/>
+              <Asset id="41291858" size="Thumbnail" uri="https://forum.jstor.org/oai-next/thumbnail?id=41291858" restriction="f"/>
+              <Asset id="41291858" size="FullSize" uri="https://forum.jstor.org/oai-next/assets/41291858/representation/size/9" restriction="f"/>
+              <Asset id="41291858" size="Medias" uri="https://forum.jstor.org/oai-next/medias/41291858" restriction="f"/>
+            </Assets>
+            <Targets xmlns="">
+              <Target name="Latin American Collections and Publications" status_lkup="Published" url="https://www.jstor.org/site/" description="JSTOR" publishDate="2026-01-20T19:57:13+00:00"/>
+              <Target name="OAI" status_lkup="Published" url="#" description="OAI" publishDate="2026-03-10T14:36:33+00:00"/>
+            </Targets>
+          </display:DR>
+        </SharedShelf>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

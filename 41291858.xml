@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-03-18T14:59:44Z</responseDate>
+  <request verb="GetRecord" identifier="41291858" metadataPrefix="oai_dc">https://forum.jstor.org/oai</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>41291858</identifier>
+        <datestamp>2026-03-10T14:36:33Z</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <oai_dc:title>Herrera Guerrero, Joaquín</oai_dc:title>
+          <oai_dc:date>1850 June 8</oai_dc:date>
+          <oai_dc:type>Correspondence</oai_dc:type>
+          <oai_dc:identifier>spc-mss0838-s01-ss01-i0073</oai_dc:identifier>
+          <oai_dc:identifier>Thumbnail:https://forum.jstor.org/oai/thumbnail?id=41291858</oai_dc:identifier>
+          <oai_dc:identifier>Medias:https://forum.jstor.org/oai/medias/41291858</oai_dc:identifier>
+          <oai_dc:identifier>FullSize:https://forum.jstor.org/assets/41291858/representation/size/9</oai_dc:identifier>
+          <oai_dc:identifier>ADLImageViewer:https://www.jstor.org/stable/10.2307/community.41291858</oai_dc:identifier>
+          <oai_dc:identifier>SSCImageViewer:https://www.jstor.org/stable/10.2307/community.41291858</oai_dc:identifier>
+          <oai_dc:coverage>Colombia</oai_dc:coverage>
+          <oai_dc:rights>Public Domain</oai_dc:rights>
+        </oai_dc:dc>
+      </metadata>
+      <about>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <oai_dc:publisher>Vanderbilt University</oai_dc:publisher>
+        </oai_dc:dc>
+      </about>
+    </record>
+  </GetRecord>
+</OAI-PMH>

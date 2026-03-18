@@ -1,0 +1,71 @@
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-03-18T15:06:48Z</responseDate>
+  <request verb="GetRecord" identifier="40699369" metadataPrefix="oai_ssio">https://forum.jstor.org/oai-next</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>40699369</identifier>
+        <datestamp>2025-09-18T21:47:17Z</datestamp>
+        <setSpec>274644</setSpec>
+      </header>
+      <metadata>
+        <SharedShelf xmlns:display="http://catalog.sharedshelf.artstor.org/display" xmlns:ssc="http://catalog.sharedshelf.artstor.org/ssc" xmlns:ssd="http://catalog.sharedshelf.artstor.org/ssd" xmlns:ssn="http://catalog.sharedshelf.artstor.org/ssn" xmlns:container="http://catalog.sharedshelf.artstor.org/container" xmlns:assets="http://catalog.sharedshelf.artstor.org/assets" xmlns:linkedrecords="http://catalog.sharedshelf.artstor.org/linkedrecords" xmlns:tgn="http://catalog.sharedshelf.artstor.org/tgn" xmlns:aat="http://catalog.sharedshelf.artstor.org/aat" xmlns:mfcl="http://catalog.sharedshelf.artstor.org/mfcl" xmlns="http://catalog.sharedshelf.artstor.org" xsi:schemaLocation="http://catalog.sharedshelf.artstor.org https://forum.jstor.org/oai-next/schema/SharedShelf_IO.xsd">
+          <display:DR id="40699369" representationId="media:0c99f7b4-99e6-4a19-b2e7-1b4cdbe1eeb9" lastUpdateDate="2025-09-18T21:47:17+00:00" sequence="0" primary="false" projectId="274644" institutionId="10217" createdBy="qavanderbilt001@jstor.org" updatedBy="zach.h.johnson@vanderbilt.edu" createdDate="2025-09-02T18:08:40+00:00">
+            <DisplayRecord xmlns="">
+              <field_string id="fd_2875957_s" description="Titles, identifying phrases, or names given to a work of art, architecture, or material culture." label="Title" value="Court of Heaven and Scenes from the End of Time, Detail of a scene from &quot;Purgatorio.&quot;"/>
+              <field_string id="fd_2875960_s" description="Concise description of the date or range of dates associated with the creation, design, production, presentation, performance, construction, or alteration of the work or its components, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Date" value="1499-1504"/>
+              <field_string id="fd_2875965_s" description="Information about the dimensions, size, or scale of the work, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Measurements" value="Image height (in.): 10; Image width (in.): 7.5"/>
+              <field_string id="fd_2875972_s" description="GIS using latitude to establish location (other geocodes in Work and Collection records)" label="Latitude" value="None"/>
+              <field_string id="fd_2875973_s" description="GIS using longitude to establish location (other geocodes in Work and Collection records)" label="Longitude" value="None"/>
+              <field_string id="fd_2875976_s" description="Text that describes the content and context of the work, including comments and an interpretation that may supplement, qualify, or explain the physical characteristics, subject, circumstances of creation or discovery, or other information about the work." label="Description" value="Vanderbilt photo identifier: SC.MSS.088.UMBR.3426; Public Notes: "/>
+              <field_string id="fd_2875979_s" description="Citations to sources of textual information and indications of source of information regarding the work or collection" label="Source" value="Cattedrale, Orvieto, Cappella Nova"/>
+              <field_string id="fd_2875980_s" description="Name and biography or location of an individual or corporate body that played a role in the creation of the image." label="Photographer" value="Alinari"/>
+              <field_string id="fd_2875982_s" description="Unique numeric or alphanumeric identification, usually a filename, of the image." label="aspace_id" value="b9baf27d7cc7580bfe548c010eefe386"/>
+              <field_string id="fd_2903599_s" description="None" label="Medium" value="tempera on plaster,slight curl, yellowing,black and white; Support:"/>
+              <field_string id="fd_2903600_s" description="None" label="Physical Condition" value="None"/>
+              <field_string id="fd_2903603_s" description="None" label="School" value="Umbria"/>
+              <field_string id="fd_2903604_s" description="None" label="Descriptive notes" value="Part of master image SC.MSS.088.UMBR.3418; Artist Status: Confirmed"/>
+              <field_string id="fd_2903631_s" description="None" label="Techniques" value="None"/>
+              <field_string id="fd_2903632_s" description="None" label="Original work type" value="None"/>
+              <field_lookup id="fd_2875955_lookup" description="Name, brief biographical information, and roles (if necessary) of the named creator or creators in the design and production of the work, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Creator">
+                <display>Luca Signorelli</display>
+              </field_lookup>
+              <field_lookup id="fd_2875963_lookup" description="Term that identifies the named, defined style, historical or artistic period, movement, group, or school whose characteristics are represented in the work being catalogued." label="Style/Period">
+                <display>High Renaissance</display>
+              </field_lookup>
+              <field_lookup id="fd_2875964_lookup" description="Indication of the substances or materials used in the creation of a work, as well as any implements, production or manufacturing techniques, processes, or methods incorporated in its fabrication, presented in a syntax suitable for display to the end-user and including any necessary indications of uncertainty, ambiguity, and nuance." label="Materials/Techniques">
+                <display>None</display>
+              </field_lookup>
+              <field_lookup id="fd_2875977_lookup" description="Terms that identify, describe, and/or interpret what is depicted in and by a work." label="Subject">
+                <display>Tempera Paintings; Purgatory; Paintings; Frescoes</display>
+              </field_lookup>
+              <field_lookup id="fd_2875984_mfcl_lookup" description="The terms under which the digital object may be used by others. Recommended best practice is to use a controlled statement from CreativeCommons.org. For local or unique licenses, catalogers may add new terms to the list. For information on how to use the provided licenses, go to https://creativecommons.org/licenses/." label="License">
+                <display></display>
+              </field_lookup>
+              <field_lookup id="fd_2875997_mfcl_lookup" description="None" label="Resource Type">
+                <display>Photographs</display>
+                <linkedField id="26172440" listName="JSTOR Resource Type" source_id="26172440" preferredTerm="Photographs" institutionName="Shared Shelf">
+                  <allTerms>Photographs</allTerms>
+                </linkedField>
+              </field_lookup>
+            </DisplayRecord>
+            <Publications xmlns="">
+              <Publication status_lkup="Published" publishing_target_id="334790" updatedBy="zach.h.johnson@vanderbilt.edu" updatedOn="2025-09-19T02:40:59+00:00"/>
+              <Publication status_lkup="Published" publishing_target_id="349280" updatedBy="zach.h.johnson@vanderbilt.edu" updatedOn="2026-03-10T14:37:31+00:00"/>
+            </Publications>
+            <Assets xmlns="" filename="spc-mss0088-s04-i3409.jpg">
+              <Asset id="40699369" size="IIIF" uri="https://www.jstor.org/iiif/2025/09/03/21/0c99f7b4-99e6-4a19-b2e7-1b4cdbe1eeb9_deflate.tif/info.json" restriction="f"/>
+              <Asset id="40699369" size="Thumbnail" uri="https://forum.jstor.org/oai-next/thumbnail?id=40699369" restriction="f"/>
+              <Asset id="40699369" size="FullSize" uri="https://forum.jstor.org/oai-next/assets/40699369/representation/size/9" restriction="f"/>
+              <Asset id="40699369" size="Medias" uri="https://forum.jstor.org/oai-next/medias/40699369" restriction="f"/>
+            </Assets>
+            <Targets xmlns="">
+              <Target name="Contini-Volterra Photographic Archive" status_lkup="Published" url="https://www.jstor.org/site/" description="JSTOR" publishDate="2025-09-19T02:40:59+00:00"/>
+              <Target name="OAI" status_lkup="Published" url="#" description="OAI" publishDate="2026-03-10T14:37:31+00:00"/>
+            </Targets>
+          </display:DR>
+        </SharedShelf>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

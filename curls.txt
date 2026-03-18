@@ -12,8 +12,16 @@ curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=
 
 curl -L "https://stewardship.jstor.org/oai-next/?verb=ListIdentifiers&metadataPrefix=oai_ssio&set=288538"
 
-curl -L "https://stewardship.jstor.org/oai-next/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=288538"
-
 curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=288538"
 
 curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_ssio&set=288538"
+
+curl -L "https://stewardship.jstor.org/oai/?verb=GetRecord&identifier=41291858&metadataPrefix=oai_dc"
+
+curl -L "https://stewardship.jstor.org/oai/?verb=GetRecord&identifier=41291858&metadataPrefix=oai_dc" -o 41291858.xml
+
+curl -L "https://stewardship.jstor.org/oai-next/?verb=GetRecord&identifier=41291858&metadataPrefix=oai_ssio" -o 41291858_next.xml
+
+curl -L "https://stewardship.jstor.org/oai/?verb=ListIdentifiers&metadataPrefix=oai_dc&set=274644"
+
+curl -L "https://stewardship.jstor.org/oai-next/?verb=GetRecord&identifier=40699369&metadataPrefix=oai_ssio" -o 40699369_next.xml
